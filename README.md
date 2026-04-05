@@ -1,4 +1,4 @@
-# LTE Neighbor Cell Analysis Project
+# 5G Neighbor Cell Analysis Project
 
 ## Overview
 This project is designed to analyze LTE neighbor cell data, providing insights into network performance and optimization. The analysis focuses on the relationship between neighboring cells and their performance metrics.

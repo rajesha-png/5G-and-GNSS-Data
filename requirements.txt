@@ -1,0 +1,10 @@
+# Requirements.txt
+
+# List of Python dependencies for the 5G-and-GNSS-Data project
+
+# Example dependencies
+numpy
+pandas
+scikit-learn
+matplotlib
+# Add other dependencies here in the format: package==version

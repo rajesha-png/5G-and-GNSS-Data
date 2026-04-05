@@ -1,6 +1,6 @@
 # Example Outputs
 
-In this section, we provide several example outputs from the LTE analysis, showcasing key metrics and results.
+In this section, we provide several example outputs from the 5G analysis, showcasing key metrics and results.
 
 ## Example Output 1
 - Description: Brief description of the output.
@@ -14,13 +14,13 @@ In this section, we provide several example outputs from the LTE analysis, showc
 
 Visualizations help to better understand the data. Below are some sample visualizations that can be presented as part of the analysis.
 
-## Visualization 1: LTE Performance over Time
+## Visualization 1: 5G Performance over Time
 ![Performance over Time](url_to_visualization)
 
 ## Visualization 2: Data Throughput Comparison
 ![Data Throughput](url_to_visualization)
 
-# Expected Results from LTE Analysis
+# Expected Results from 5G Analysis
 
 When applying the LTE analysis scripts, users should expect the following results:
 - High-level insights into signal strength.
@@ -43,7 +43,7 @@ This section will guide users on interpreting their analysis results:
 
 Below are code examples that users can utilize for their analysis:
 
-## Example Code 1: Running LTE Analysis
+## Example Code 1: Running 5G Analysis
 ```python
 # Example code snippet to run LTE analysis
 import numpy as np
